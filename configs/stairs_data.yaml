@@ -1,0 +1,7 @@
+path: ../datasets/stairs/processed
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: ascending_stairs
+  1: descending_stairs

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+runs/
+datasets/*/raw/
+datasets/*/processed/
+models/**/*.pt
+models/**/*.onnx
+models/**/*.engine
+results/images/*
+results/videos/*
+results/logs/*
+.DS_Store
+.ipynb_checkpoints/

@@ -1,0 +1,8 @@
+# TensorRT is usually installed through JetPack or NVIDIA packages.
+# pyrealsense2 installation on Jetson may require device-specific setup.
+numpy
+opencv-python
+pyyaml
+tqdm
+matplotlib
+ultralytics

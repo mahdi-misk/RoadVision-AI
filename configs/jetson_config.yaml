@@ -1,0 +1,14 @@
+device: jetson
+preferred_model_format: tensorrt
+fallback_model_format: onnx
+image_size: 416
+confidence_threshold: 0.35
+depth_enabled: true
+danger_distance_m: 1.0
+warning_distance_m: 2.0
+camera_type: realsense
+camera_index: 0
+show_fps: true
+enable_general_objects: true
+enable_potholes: true
+enable_stairs: true

@@ -1,0 +1,10 @@
+general_model: yolov8n.pt
+pothole_model: models/pothole/best.pt
+stairs_model: models/stairs/best.pt
+confidence_threshold: 0.35
+show_fps: true
+save_results: true
+enable_general_objects: true
+enable_potholes: true
+enable_stairs: true
+enable_depth: false
