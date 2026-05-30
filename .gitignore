@@ -16,3 +16,5 @@ results/logs/*
 .ipynb_checkpoints/
 
 kaggle.json
+*.zip
+*.pt
